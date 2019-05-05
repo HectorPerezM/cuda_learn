@@ -2,3 +2,5 @@
 .cproject
 .project
 .vscode/
+
+cuda_by_example/chapter_0*/bin/
