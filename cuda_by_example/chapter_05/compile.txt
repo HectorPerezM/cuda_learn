@@ -1,0 +1,1 @@
+nvcc -o bin/ripple ripple.cu -lglut -lGL -lGLU
